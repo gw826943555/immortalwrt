@@ -79,6 +79,7 @@ platform_do_upgrade() {
 	jdcloud,re-cp-03|\
 	konka,komi-a31|\
 	livinet,zr-3020-ubootmod|\
+	mediatek,7981r128|\
 	mediatek,mt7981-rfb|\
 	mediatek,mt7988a-rfb|\
 	mercusys,mr90x-v1-ubi|\
